@@ -1,6 +1,6 @@
 # Face Detection using OpenCV in Python
 
-Internship project (Hex Softwares) — a Python program that detects human faces in an image using OpenCV, and draws bounding boxes around each detected face.
+Internship project (Hex Softwares), a Python program that detects human faces in an image using OpenCV, and draws bounding boxes around each detected face.
 
 ## Overview
 
@@ -69,4 +69,4 @@ Face detection techniques like this are widely used in surveillance systems, pho
 
 ## Author
 
-Internship Project — Hex Softwares
+Areeb Ahsan - Internship Project for HexSoftwares
